@@ -3,15 +3,15 @@
 	"packages": [
 		{
 			"name": "README Preview",
-			"description": "preview Package's README.",
+			"description": "This is a Sublime Text 2 plugin to help you preview already installed other package's README files quickly in you web browser.",
 			"author": "astronaughts",
 			"homepage": "https://github.com/astronaughts/README-Preview",
-			"last_modified": "2012-10-30 14:00:00",
+			"last_modified": "2012-11-08 0:00:00",
 			"platforms": {
 				"*": [
 					{
-						"version": "0.0.1",
-						"url": "https://github.com/astronaughts/README-Preview/zipball/master"
+						"version": "0.1.0",
+						"url": "https://github.com/astronaughts/SublimeOpenFromPath/zipball/master"
 					}
 				]
 			}
